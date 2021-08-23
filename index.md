@@ -6,8 +6,9 @@ title: Dominique Caron's CV
 PhD student, McGill University.
 
 [Quantitative Biodiversity Lab](https://qbiodiversity.org/),Department of Biology<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+Stewart Biology Building Office N7/19<br/>
+1205 Dr. Penfield Avenue<br/>
+Montréal, Québec, Canada H3A 1B1<br/>
 
 <a href="dominique.caron@mail.mcgill.ca">dominique.caron@mail.mcgill.ca</a> - (+1) 514-433-2947
 
@@ -19,26 +20,25 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ## Education
 
-`October 2012 - May 2014`
-__Polytechnique Montréal__
+`January 2020 - now`
+__McGill University__
 
--  B.Eng. in Civil Engineering (unfinished)
-
-`September 2014 - May 2017`
-__Université de Montréal__
-
-- BSc in Biological Sciences
+- PhD in Biology
 
 `September 2017 - December 2018`
 __Université de Montréal__
 
 - MSc in Quantitative and Computational Biology
 
-`January 2020 - now`
-__McGill University__
+`September 2014 - May 2017`
+__Université de Montréal__
 
-- PhD in Biology
+- BSc in Biological Sciences
 
+`October 2012 - May 2014`
+__Polytechnique Montréal__
+
+-  B.Eng. in Civil Engineering (unfinished)
 
 ## Grants, Honors, and Awards
 
