@@ -45,12 +45,14 @@ __Polytechnique Montréal__
 `2020`
 **Best Short Presentation**, *QCBS symposium 2020*, *QCBS*.
 
+**Learning and Development Award (LeaDA)**, *Quebec Center for Biodiversity Science*, *QCBS*.
+
 `2017`
 **Undergraduate Student Research Award**, *Natural Sciences and Engineering Research Council of Canada*, *NSERC*.
 
 **Supplements of the NSERC Undergraduate Student Research Awards**, *Fonds de recherche du Québec – Nature et technologies*, *FRQNT*.
 
-**Intensive Courses Award**, *QCBS*.
+**Intensive Courses Award**, *Quebec Center for Biodiversity Science*, *QCBS*.
 
 `2015 – 2017`
 **Dean’s Honour List**, *Faculty of Arts and Science: Fall 2015, Winter 2016, Fall 2016 and
