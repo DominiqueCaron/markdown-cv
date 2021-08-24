@@ -20,7 +20,7 @@ Montréal, Québec, Canada H3A 1B1<br/>
 
 ## Education
 
-`January 2020 - now`
+`January 2020 - present`
 __McGill University__
 
 - PhD in Biology
@@ -161,7 +161,7 @@ Tyffany Patrier, *Department of Biology, McGill University*, Montréal, Canada.
 `2018`
 **MSc Research Intern**, Poisot Lab, Université de Montréal
 
-**MSc Research intern** Ouranos Inc.
+**MSc Research Assistant** Ouranos Inc.
 
 `2017`
 **MSc Research Intern**, James Lab, Université de Montréal
