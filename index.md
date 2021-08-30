@@ -13,9 +13,9 @@ Montréal, Québec, Canada H3A 1B1<br/>
 <a href="dominique.caron@mail.mcgill.ca">dominique.caron@mail.mcgill.ca</a> - (+1) 514-433-2947
 
 <div id="webaddress">
-  <a href="https://github.com/DominiqueCaron"><i class="fab fa-github"></i> DominiqueCaron</a> - 
-  <a href="https://orcid.org/0000-0002-2151-6693"><i class="ai ai-orcid"></i> 0000-0002-2151-6693</a> - 
-  <a href="https://twitter.com/CardinalCaron"><i class="fab fa-twitter"></i> @CardinalCaron</a>
+  <a href="https://github.com/DominiqueCaron"><i class="fab fa-github"></i> GitHub </a> - 
+  <a href="https://orcid.org/0000-0002-2151-6693"><i class="ai ai-orcid"></i> orcid </a> - 
+  <a href="https://twitter.com/CardinalCaron"><i class="fab fa-twitter"></i> Twitter </a>
 </div>
 
 ## Education
@@ -42,16 +42,19 @@ __Polytechnique Montréal__
 
 ## Grants, Honors, and Awards
 
+`2020-2021`
+**Learning and Development Award (LeaDA)**, *Quebec Center for Biodiversity Science*, *QCBS*.
+
 `2020`
 **Best Short Presentation**, *QCBS symposium 2020*, *QCBS*.
-
-**Learning and Development Award (LeaDA)**, *Quebec Center for Biodiversity Science*, *QCBS*.
 
 `2017`
 **Undergraduate Student Research Award**, *Natural Sciences and Engineering Research Council of Canada*, *NSERC*.
 
+`2017`
 **Supplements of the NSERC Undergraduate Student Research Awards**, *Fonds de recherche du Québec – Nature et technologies*, *FRQNT*.
 
+`2017`
 **Intensive Courses Award**, *Quebec Center for Biodiversity Science*, *QCBS*.
 
 `2015 – 2017`
@@ -82,11 +85,12 @@ Winter 2017.*, *Université de Montréal*.
 ### Journals
 
 `in review`
-
 **Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. (2021). Reducing the Eltonian shortfall with trophic interaction models.
 
+`in review`
 Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., … Poisot, T. (2021). Food web reconstruction through phylogenetic transfer of low-rank network representation. doi: [10.32942/osf.io/y7sdz](https://doi.org/10.32942/osf.io/y7sdz)
 
+`in press`
 Strydom, T., Catchen, M. D., Banville, F., **Caron, D.**, Dansereau, G., Desjardins-Proulx, P., … Poisot, T. (2021). A Roadmap Toward Predicting Species Interaction Networks (Across Space and Time). doi: [10.32942/osf.io/eu7k3](https://doi.org/10.32942/osf.io/eu7k3)
 
 `2019`
@@ -99,7 +103,6 @@ Strydom, T., Catchen, M. D., Banville, F., **Caron, D.**, Dansereau, G., Desjard
 Després-Einspenner, M.L., **Caron, D**, Dubuc, G. Plan pour la connectivité des Laurentides 2020-2025. Éco-corridors Laurentiens
 
 ### Software
-
 Rousseu, F., Christin, S., **Caron, D.**, Roy, C., Lavoie, R., Beaumont, M., Bolduc, F. (2021) BiRdEmergency v3.2 :Canadian Wildlife Service decision tool to explore information during environmental emergencies.
 
 Roy, P., **Caron, D.**, Smith, T.J., Nolet-Gravel, É., Kelman, T., Forget G., TagBot, J., Thomet F., & Saba E. (2020). JuliaClimate/ClimateTools.jl: v0.22.0 (v0.22.0). Zenodo. doi: [10.5281/zenodo.3836872](https://doi.org/10.5281/zenodo.3836872)
@@ -122,11 +125,9 @@ BIOL206 - Methods in Biology of Organisms, McGill, Montréal, Canada
 ### Workshop Presentor
 
 `2020`
-QCBS R Workshop 2 - Loading and manipulating data
-
 QCBS R Workshop 3 - Introduction to ggplot2
 
-`2018`
+`2018 & 2020`
 QCBS R Workshop 2 - Loading and manipulating data
 
 ### Workshop Developer
@@ -139,6 +140,7 @@ QCBS R Workshop 1 - Introduction to R
 `2018`
 BIO2041 – Biostatistics I, Université de Montréal, Montréal, Canada
 
+`2018`
 BIO1434 – Biodiversity 2, Université de Montréal, Montréal, Canada
 
 ## Supervision
@@ -147,6 +149,7 @@ BIO1434 – Biodiversity 2, Université de Montréal, Montréal, Canada
 `2021`
 Madeline Hutcheson, *Department of Biology, McGill University*, Montréal, Canada.
 
+`2021`
 Tyffany Patrier, *Department of Biology, McGill University*, Montréal, Canada.
 
 ## Other Experiences
@@ -156,21 +159,25 @@ Tyffany Patrier, *Department of Biology, McGill University*, Montréal, Canada.
 `2019`
 **Conservation Planning Assistant**, Éco-corridors Laurentiens
 
+`2019`
 **Wildlife Technician**, Environment and Climate Change Canada
 
 `2018`
 **MSc Research Intern**, Poisot Lab, Université de Montréal
 
+`2018`
 **MSc Research Assistant** Ouranos Inc.
 
 `2017`
 **MSc Research Intern**, James Lab, Université de Montréal
 
+`2017`
 **Field Assistant**, Bélanger Lab, TÉLUQ
 
 `2016`
 **Technical Assistant for the Collections of Marine Invertebrates**, Institut québécois de la biodiversité (IQBIO)
 
+`2016`
 **Undergraduate Research Intern**, Poisot Lab, Université de Montréal
 
 <!-- ### Footer
