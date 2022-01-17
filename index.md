@@ -15,6 +15,7 @@ Montréal, Québec, Canada H3A 1B1<br/>
 <div id="webaddress">
   <a href="https://github.com/DominiqueCaron"><i class="fab fa-github"></i> GitHub </a> - 
   <a href="https://orcid.org/0000-0002-2151-6693"><i class="ai ai-orcid"></i> orcid </a> - 
+  <a href="https://dominiquecaron.github.io/"><i class="ai ai-link"></i> website </a> - 
   <a href="https://twitter.com/CardinalCaron"><i class="fab fa-twitter"></i> Twitter </a>
 </div>
 
@@ -84,14 +85,15 @@ Winter 2017.*, *Université de Montréal*.
 
 ### Journals
 
-`in review`
-**Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. (2021). Reducing the Eltonian shortfall with trophic interaction models.
 
 `in review`
-Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., … Poisot, T. (2021). Food web reconstruction through phylogenetic transfer of low-rank network representation. doi: [10.32942/osf.io/y7sdz](https://doi.org/10.32942/osf.io/y7sdz)
+Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., … Poisot, T. (2021). Food web reconstruction through phylogenetic transfer of low-rank network representation. doi: [10.32942/osf.io/y7sdz](https://doi.org/10.32942/osf.io/y7sdz).
 
-`in press`
-Strydom, T., Catchen, M. D., Banville, F., **Caron, D.**, Dansereau, G., Desjardins-Proulx, P., … Poisot, T. (2021). A Roadmap Toward Predicting Species Interaction Networks (Across Space and Time). doi: [10.32942/osf.io/eu7k3](https://doi.org/10.32942/osf.io/eu7k3)
+`2022`
+**Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. (2022). Addressing the Eltonian shortfall with trait-based interaction models. *Ecology Letters*, *25*(2). doi:[http://doi.org/10.1111/ele.13966](http://doi.org/10.1111/ele.13966).
+
+`2021`
+Strydom, T., Catchen, M. D., Banville, F., **Caron, D.**, Dansereau, G., Desjardins-Proulx, P., ... & Poisot, T. (2021). A roadmap towards predicting species interaction networks (across space and time). *Philosophical Transactions of the Royal Society B*, *376*(1837), 20210063. doi:[https://doi.org/10.1098/rstb.2021.0063](https://doi.org/10.1098/rstb.2021.0063).
 
 `2019`
 **Caron, D.**, Lessard, V., Wu, Q., & Poisot, T. (2019). [Re] Insect natural enemies as regulating factors. *Rescience*, *5*(1): 1. doi:  [10.5281/zenodo.2598793](https://doi.org/10.5281/zenodo.2598793).
