@@ -22,24 +22,24 @@ Montréal, Québec, Canada H3A 1B1<br/>
 ## Education
 
 `January 2020 - present`
-__McGill University__
+**McGill University**
 
 - PhD in Biology
 
 `September 2017 - December 2018`
-__Université de Montréal__
+**Université de Montréal**
 
 - MSc in Quantitative and Computational Biology
 
 `September 2014 - May 2017`
-__Université de Montréal__
+**Université de Montréal**
 
 - BSc in Biological Sciences
 
 `October 2012 - May 2014`
-__Polytechnique Montréal__
+**Polytechnique Montréal**
 
--  B.Eng. in Civil Engineering (unfinished)
+- B.Eng. in Civil Engineering (unfinished)
 
 ## Grants, Honors, and Awards
 
@@ -53,13 +53,13 @@ __Polytechnique Montréal__
 **Undergraduate Student Research Award**, *Natural Sciences and Engineering Research Council of Canada*, *NSERC*.
 
 `2017`
-**Supplements of the NSERC Undergraduate Student Research Awards**, *Fonds de recherche du Québec – Nature et technologies*, *FRQNT*.
+**Supplements of the NSERC Undergraduate Student Research Awards**, *Fonds de recherche du Québec - Nature et technologies*, *FRQNT*.
 
 `2017`
 **Intensive Courses Award**, *Quebec Center for Biodiversity Science*, *QCBS*.
 
-`2015 – 2017`
-**Dean’s Honour List**, *Faculty of Arts and Science: Fall 2015, Winter 2016, Fall 2016 and
+`2015 - 2017`
+**Dean's Honour List**, *Faculty of Arts and Science: Fall 2015, Winter 2016, Fall 2016 and
 Winter 2017.*, *Université de Montréal*.
 
 ## Talks
@@ -85,12 +85,14 @@ Winter 2017.*, *Université de Montréal*.
 
 ### Journals
 
-
-`in review`
-Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., … Poisot, T. (2021). Food web reconstruction through phylogenetic transfer of low-rank network representation. doi: [10.32942/osf.io/y7sdz](https://doi.org/10.32942/osf.io/y7sdz).
+`In Review`
+Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T.Predicting metawebs: transfer of graph embeddings can help alleviate spatial data deficiencies. doi: [10.32942/osf.io/vyzgr](https://doi.org/10.32942/osf.io/vyzgr)
 
 `2022`
-**Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. (2022). Addressing the Eltonian shortfall with trait-based interaction models. *Ecology Letters*, *25*(2). doi:[http://doi.org/10.1111/ele.13966](http://doi.org/10.1111/ele.13966).
+Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T. (2022). Food web reconstruction through phylogenetic transfer of low-rank network representation. *Methods in Ecology and Evolution*, *Early View*. doi: [10.1111/2041-210X.13835](https://doi.org/10.1111/2041-210X.13835).
+
+`2022`
+**Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. (2022). Addressing the Eltonian shortfall with trait-based interaction models. *Ecology Letters*, *25*(4). doi:[http://doi.org/10.1111/ele.13966](http://doi.org/10.1111/ele.13966).
 
 `2021`
 Strydom, T., Catchen, M. D., Banville, F., **Caron, D.**, Dansereau, G., Desjardins-Proulx, P., ... & Poisot, T. (2021). A roadmap towards predicting species interaction networks (across space and time). *Philosophical Transactions of the Royal Society B*, *376*(1837), 20210063. doi:[https://doi.org/10.1098/rstb.2021.0063](https://doi.org/10.1098/rstb.2021.0063).
@@ -98,13 +100,13 @@ Strydom, T., Catchen, M. D., Banville, F., **Caron, D.**, Dansereau, G., Desjard
 `2019`
 **Caron, D.**, Lessard, V., Wu, Q., & Poisot, T. (2019). [Re] Insect natural enemies as regulating factors. *Rescience*, *5*(1): 1. doi:  [10.5281/zenodo.2598793](https://doi.org/10.5281/zenodo.2598793).
 
-
 ### Technical report
 
 `2020`
 Després-Einspenner, M.L., **Caron, D**, Dubuc, G. Plan pour la connectivité des Laurentides 2020-2025. Éco-corridors Laurentiens
 
 ### Software
+
 Rousseu, F., Christin, S., **Caron, D.**, Roy, C., Lavoie, R., Beaumont, M., Bolduc, F. (2021) BiRdEmergency v3.2 :Canadian Wildlife Service decision tool to explore information during environmental emergencies.
 
 Roy, P., **Caron, D.**, Smith, T.J., Nolet-Gravel, É., Kelman, T., Forget G., TagBot, J., Thomet F., & Saba E. (2020). JuliaClimate/ClimateTools.jl: v0.22.0 (v0.22.0). Zenodo. doi: [10.5281/zenodo.3836872](https://doi.org/10.5281/zenodo.3836872)
@@ -113,15 +115,15 @@ Roy, P., **Caron, D.**, Smith, T.J., Nolet-Gravel, É., Kelman, T., Forget G., T
 
 ### Teaching Assistant
 
-`2021` 
+`2021`
 BIOL206 - Methods in Biology of Organisms, McGill, Montréal, Canada
 
 `2018`
-BIO2041 – Biostatistics I, Université de Montréal, Montréal, Canada
+BIO2041 - Biostatistics I, Université de Montréal, Montréal, Canada
 
 ### Teaching Development Fellow
 
-`2020` 
+`2020`
 BIOL206 - Methods in Biology of Organisms, McGill, Montréal, Canada
 
 ### Workshop Presentor
@@ -137,17 +139,21 @@ QCBS R Workshop 2 - Loading and manipulating data
 `2020-2021`
 QCBS R Workshop 1 - Introduction to R
 
+`2022`
+QCBS R Workshop 7 - Generalized Linear Mixed Models
+
 ### Tutor
 
 `2018`
-BIO2041 – Biostatistics I, Université de Montréal, Montréal, Canada
+BIO2041 - Biostatistics I, Université de Montréal, Montréal, Canada
 
 `2018`
-BIO1434 – Biodiversity 2, Université de Montréal, Montréal, Canada
+BIO1434 - Biodiversity 2, Université de Montréal, Montréal, Canada
 
 ## Supervision
 
 ### Undergraduate interns
+
 `2021`
 Madeline Hutcheson, *Department of Biology, McGill University*, Montréal, Canada.
 
@@ -155,7 +161,8 @@ Madeline Hutcheson, *Department of Biology, McGill University*, Montréal, Canad
 Tyffany Patrier, *Department of Biology, McGill University*, Montréal, Canada.
 
 ## Other Experiences
-`2019 - present`
+
+`2019 - 2022`
 **Software Developper**, Environment and Climate Change Canada
 
 `2019`
@@ -185,5 +192,3 @@ Tyffany Patrier, *Department of Biology, McGill University*, Montréal, Canada.
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
