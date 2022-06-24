@@ -85,12 +85,14 @@ Winter 2017.*, *Université de Montréal*.
 
 ### Journals
 
-
-`in review`
-Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T. (2021). Food web reconstruction through phylogenetic transfer of low-rank network representation. doi: [10.32942/osf.io/y7sdz](https://doi.org/10.32942/osf.io/y7sdz).
+`In Review`
+Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T.Predicting metawebs: transfer of graph embeddings can help alleviate spatial data deficiencies. doi: [10.32942/osf.io/vyzgr](https://doi.org/10.32942/osf.io/vyzgr)
 
 `2022`
-**Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. (2022). Addressing the Eltonian shortfall with trait-based interaction models. *Ecology Letters*, *25*(2). doi:[http://doi.org/10.1111/ele.13966](http://doi.org/10.1111/ele.13966).
+Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T. (2022). Food web reconstruction through phylogenetic transfer of low-rank network representation. *Methods in Ecology and Evolution*, *Early View*. doi: [10.1111/2041-210X.13835](https://doi.org/10.1111/2041-210X.13835).
+
+`2022`
+**Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. (2022). Addressing the Eltonian shortfall with trait-based interaction models. *Ecology Letters*, *25*(4). doi:[http://doi.org/10.1111/ele.13966](http://doi.org/10.1111/ele.13966).
 
 `2021`
 Strydom, T., Catchen, M. D., Banville, F., **Caron, D.**, Dansereau, G., Desjardins-Proulx, P., ... & Poisot, T. (2021). A roadmap towards predicting species interaction networks (across space and time). *Philosophical Transactions of the Royal Society B*, *376*(1837), 20210063. doi:[https://doi.org/10.1098/rstb.2021.0063](https://doi.org/10.1098/rstb.2021.0063).
