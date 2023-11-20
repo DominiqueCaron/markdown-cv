@@ -43,7 +43,16 @@ Montréal, Québec, Canada H3A 1B1<br/>
 
 ## Grants, Honors, and Awards
 
-`2020-2021`
+`2023`
+**Graduate Research Ehancement and Travel Award**, *Department of Biology*, *McGill University*.
+
+`2023`
+**QCBS Excellence Award**, *Quebec Cener for Biodiversity Science*, *QCBS*.
+
+`2023`
+**Best Poster**, *Gordon Research Conference on Predictive Ecology*, *GRC*.
+
+`2020-2022`
 **Learning and Development Award (LeaDA)**, *Quebec Center for Biodiversity Science*, *QCBS*.
 
 `2020`
@@ -64,14 +73,22 @@ Winter 2017.*, *Université de Montréal*.
 
 ## Talks
 
+`2023` **Caron, D.**, Brose, U., Lurgi, M., Blanchet F.G., Gravel, D., Pollock, L.J. Transferability of trophic interaction models across space. GRC on Predictive Ecology. Stonehill College, Massachusetts (USA). *Poster*
+
+`2023` **Caron, D.**, Jousse, M., Eckert I., Pollock, L.J. Trophic niche and seasonality shape the structure of avian diversity. Species on the Move conference. Bonita Springs, Florida (USA).
+
+`2022` **Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. Tackling knowledge gaps about food webs with trait-based models. Ecological Society America (ESA) & Canadian Society for Ecology and Evolution (CSEE) joint meeting. Montréal (Canada).
+
+`2022` **Caron, D.** What are Muad'Dibs eating? Predicting Dune's metaweb using functional traits. Ecological Society America (ESA) & Canadian Society for Ecology and Evolution (CSEE) joint meeting. Montréal (Canada).
+
 `2021`
-**Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. Predicting trophic interactions to fill the Eltonian shortfall. Canadian Society for Ecology and Evolution (CSEE) Annual Meeting, 2021.
+**Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. Predicting trophic interactions to fill the Eltonian shortfall. Canadian Society for Ecology and Evolution (CSEE) Annual Meeting. Online
 
 `2020`
-**Caron, D.**, Pollock, L.J. Doing a lot with "a little": (Re)Building a large food web with sparse data. Quebec Center for Biodiversity Science (QCBS) Annual Symposium, 2020.
+**Caron, D.**, Pollock, L.J. Doing a lot with "a little": (Re)Building a large food web with sparse data. Quebec Center for Biodiversity Science (QCBS) Annual Symposium. Online
 
 `2019`
-**Caron, D.**, Chavaillaz, Y., Roy, P. Évolution d'indicateurs d’exposition à la chaleur et conséquences pour la santé des travailleurs extérieurs. Ouranos Seminar, 2019.
+**Caron, D.**, Chavaillaz, Y., Roy, P. Évolution d'indicateurs d’exposition à la chaleur et conséquences pour la santé des travailleurs extérieurs. Ouranos Seminar. Montréal (Canada).
 
 `2018`
 **Caron, D.** & James, PMA. L’échelle d’autocorrélation spatiale de données génétiques chez un insecte ravageur de l’Ouest canadien : capacité de dispersion importante et historique de colonisation complexe. Symposium de sciences biologiques de l’Université de Montréal, Montréal (Canada).
@@ -86,10 +103,16 @@ Winter 2017.*, *Université de Montréal*.
 ### Journals
 
 `In Review`
-Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T.Predicting metawebs: transfer of graph embeddings can help alleviate spatial data deficiencies. doi: [10.32942/osf.io/vyzgr](https://doi.org/10.32942/osf.io/vyzgr)
+**Caron, D.**, Brose, U., Lurgi, M., Blanchet F.G., Gravel, D., Pollock, L.J. Trait-matching models predict pairwise interactions across regions, not food web properties. doi:[10.32942/X29K55](https://doi.org/10.32942/X29K55).
+
+`2023`
+Eckert, I., Brown, A., **Caron, D.**, Riva, F., Pollock, L.J. (2023). 30×30 biodiversity gains rely on national coordination. *Nature Communications*, *14*(7113). doi: [10.1038/s41467-023-42737-x](https://doi.org/10.1038/s41467-023-42737-x).
+
+`2023`
+Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T. (2023). Graph embedding and transfer learning can help predict potential species interaction networks despite data limitations. *Methods in Ecology and Evolution*, *Early View*. doi: [10.1111/2041-210X.14228](https://doi.org/10.1111/2041-210X.14228)
 
 `2022`
-Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T. (2022). Food web reconstruction through phylogenetic transfer of low-rank network representation. *Methods in Ecology and Evolution*, *Early View*. doi: [10.1111/2041-210X.13835](https://doi.org/10.1111/2041-210X.13835).
+Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T. (2022). Food web reconstruction through phylogenetic transfer of low-rank network representation. *Methods in Ecology and Evolution*, *13*(12). doi: [10.1111/2041-210X.13835](https://doi.org/10.1111/2041-210X.13835).
 
 `2022`
 **Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. (2022). Addressing the Eltonian shortfall with trait-based interaction models. *Ecology Letters*, *25*(4). doi:[http://doi.org/10.1111/ele.13966](http://doi.org/10.1111/ele.13966).
@@ -115,7 +138,10 @@ Roy, P., **Caron, D.**, Smith, T.J., Nolet-Gravel, É., Kelman, T., Forget G., T
 
 ### Teaching Assistant
 
-`2021`
+`2023`
+BIOL206 - Methods in Biology of Organisms *Lab coordinator*, McGill, Montréal, Canada
+
+`2021 & 2022`
 BIOL206 - Methods in Biology of Organisms, McGill, Montréal, Canada
 
 `2018`
