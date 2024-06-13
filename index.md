@@ -1,27 +1,31 @@
 ---
 layout: cv
 title: Dominique Caron's CV
+bibliography: pub.bib
 ---
 # Dominique Caron
 PhD student, McGill University.
 
-[Quantitative Biodiversity Lab](https://qbiodiversity.org/),Department of Biology<br/>
+[Quantitative Biodiversity Lab](https://qbiodiversity.org/), Department of Biology<br/>
 Stewart Biology Building Office N7/19<br/>
 1205 Dr. Penfield Avenue<br/>
 Montréal, Québec, Canada H3A 1B1<br/>
-
-<a href="dominique.caron@mail.mcgill.ca">dominique.caron@mail.mcgill.ca</a> - (+1) 514-433-2947
+<a href="dominique.caron@mail.mcgill.ca">dominique.caron@mail.mcgill.ca</a>  
+(+1) 514-433-2947
 
 <div id="webaddress">
   <a href="https://github.com/DominiqueCaron"><i class="fab fa-github"></i> GitHub </a> - 
-  <a href="https://orcid.org/0000-0002-2151-6693"><i class="ai ai-orcid"></i> orcid </a> - 
-  <a href="https://dominiquecaron.github.io/"><i class="ai ai-link"></i> website </a> - 
-  <a href="https://twitter.com/CardinalCaron"><i class="fab fa-twitter"></i> Twitter </a>
+  <a href="https://orcid.org/0000-0002-2151-6693"><i class="ai ai-orcid"></i> ORCID </a> - 
+  <a href="https://dominiquecaron.github.io/"><i class="ai ai-link"></i> Website </a>
 </div>
+
+## Profile
+
+I am currently completing my PhD in Laura Pollock's lab at McGill University. My thesis focuses on trait-based modeling of trophic interactions of terrestrial vertebrates and the seasonal movements of birds. I am particularly interested in biogeography, biodiversity modeling, and food web ecology. Through my academic and professional experience, I have developed advanced skills in quantitative analyses (R, Julia, QGIS), data management, and ecological modeling.
 
 ## Education
 
-`January 2020 - present`
+`January 2020 - 2024`
 **McGill University**
 
 - PhD in Biology
@@ -41,7 +45,53 @@ Montréal, Québec, Canada H3A 1B1<br/>
 
 - B.Eng. in Civil Engineering (unfinished)
 
+## Experience
+
+`2019 - 2022`
+**Software Developper**, Environment and Climate Change Canada
+
+`2019`
+**Conservation Planning Assistant**, Éco-corridors Laurentiens
+
+`2018`
+**MSc Research Intern**, Poisot Lab, Université de Montréal
+
+`2018`
+**Research Assistant** Ouranos Inc.
+
+`2017`
+**MSc Research Intern**, James Lab, Université de Montréal
+
+`2017`
+**Field Assistant**, Bélanger Lab, TÉLUQ
+
+`2016`
+**Technical Assistant for the Collections of Marine Invertebrates**, Institut québécois de la biodiversité (IQBIO)
+
+## Teaching
+
+`2023`
+Lab Coordinator - Methods in Biology of Organisms, McGill University.
+
+`2021 & 2022`
+Teaching Assistant - Methods in Biology of Organisms, McGill University.
+
+`2020`
+Teaching Development Fellow - Methods in Biology of Organisms, McGill University.
+
+`2018`
+Teaching Assistant - Biostatistics I, Université de Montréal.
+
+`2018`
+Tutor - Biostatistics I, Université de Montréal.
+
+`2018`
+Tutor - Biostatistics II, Université de Montréal.
+
 ## Grants, Honors, and Awards
+
+`2024`
+**Writing-Year Award**, *Department of Biology*, *McGill University*.
 
 `2023`
 **Graduate Research Ehancement and Travel Award**, *Department of Biology*, *McGill University*.
@@ -62,33 +112,59 @@ Montréal, Québec, Canada H3A 1B1<br/>
 **Undergraduate Student Research Award**, *Natural Sciences and Engineering Research Council of Canada*, *NSERC*.
 
 `2017`
-**Supplements of the NSERC Undergraduate Student Research Awards**, *Fonds de recherche du Québec - Nature et technologies*, *FRQNT*.
-
-`2017`
 **Intensive Courses Award**, *Quebec Center for Biodiversity Science*, *QCBS*.
 
 `2015 - 2017`
-**Dean's Honour List**, *Faculty of Arts and Science: Fall 2015, Winter 2016, Fall 2016 and
-Winter 2017.*, *Université de Montréal*.
+**Dean's Honour List**, *Faculty of Arts and Science*, *Université de Montréal*.
+
+## Publications
+
+`2024`
+**Caron, D.**, Brose, U., Lurgi, M., Blanchet, F., Gravel, D., & Pollock, L. Trait-matching models predict pairwise interactions across regions, not food web properties. Global Ecology and Biogeography, 33(4), e13807.
+
+`2023`
+Eckert, I., Brown, A., **Caron, D.**, Riva, F., & Pollock, L. 30×30 biodiversity gains rely on national coordination. Nature Communications, 14(1), 7113.
+
+`2023`
+Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M., Fortin, M.J., Mercier, B., Pollock, L., Runghen, R., Dalla Riva, G., & Poisot, T. Graph embedding and transfer learning can help predict potential species interaction networks despite data limitations. Methods in Ecology and Evolution, 14(12), 2917–2930.
+
+`2022`
+**Caron, D.**, Maiorano, L., Thuiller, W., & Pollock, L. Addressing the Eltonian shortfall with trait‐based interaction models. Ecology Letters, ele.13966.
+
+`2022`
+Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M., Fortin, M.J., Hemming, V., Mercier, B., Pollock, L., Runghen, R., Dalla Riva, G., & Poisot, T. Food web reconstruction through phylogenetic transfer of low-rank network representation. Methods in Ecology and Evolution, 13(12), 2838–2849.
+
+`2021`
+Strydom, T., Catchen, M., Banville, F., **Caron, D.**, Dansereau, G., Desjardins-Proulx, P., Forero-Muñoz, N., Higino, G., Mercier, B., Gonzalez, A., Gravel, D., Pollock, L., & Poisot, T. A roadmap towards predicting species interaction networks (across space and time). Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 376(1837), 20210063.
+
+`2019`
+**Caron, D.**, Lessard, V., Wu, Q., & Poisot, T. (2019). [Re] Insect natural enemies as regulating factors. ReScience, 5(1), #1.
 
 ## Talks
 
-`2023` **Caron, D.**, Brose, U., Lurgi, M., Blanchet F.G., Gravel, D., Pollock, L.J. Transferability of trophic interaction models across space. GRC on Predictive Ecology. Stonehill College, Massachusetts (USA). *Poster*
+`2024`
+**Caron, D.**, Jousse, M., Eckert I., Pollock, L.J. Niche trackers don’t play by the rules: Consequences of niche tracking on seasonal north american bird biogeography. QCBS Symposium. Montréal (Canada)
 
-`2023` **Caron, D.**, Jousse, M., Eckert I., Pollock, L.J. Trophic niche and seasonality shape the structure of avian diversity. Species on the Move conference. Bonita Springs, Florida (USA).
+`2023`
+**Caron, D.**, Brose, U., Lurgi, M., Blanchet F.G., Gravel, D., Pollock, L.J. Transferability of trophic interaction models across space. GRC on Predictive Ecology. Stonehill College, Massachusetts (USA). *Poster*
 
-`2022` **Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. Tackling knowledge gaps about food webs with trait-based models. Ecological Society America (ESA) & Canadian Society for Ecology and Evolution (CSEE) joint meeting. Montréal (Canada).
+`2023`
+**Caron, D.**, Jousse, M., Eckert I., Pollock, L.J. Trophic niche and seasonality shape the structure of avian diversity. Species on the Move conference. Bonita Springs, Florida (USA).
 
-`2022` **Caron, D.** What are Muad'Dibs eating? Predicting Dune's metaweb using functional traits. Ecological Society America (ESA) & Canadian Society for Ecology and Evolution (CSEE) joint meeting. Montréal (Canada).
+`2022`
+**Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. Tackling knowledge gaps about food webs with trait-based models. Ecological Society America (ESA) & Canadian Society for Ecology and Evolution (CSEE) joint meeting. Montréal (Canada).
+
+`2022`
+**Caron, D.** What are Muad’Dibs eating? Predicting Dune’s metaweb using functional traits. Ecological Society America (ESA) & Canadian Society for Ecology and Evolution (CSEE) joint meeting. Montréal (Canada).
 
 `2021`
 **Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. Predicting trophic interactions to fill the Eltonian shortfall. Canadian Society for Ecology and Evolution (CSEE) Annual Meeting. Online
 
 `2020`
-**Caron, D.**, Pollock, L.J. Doing a lot with "a little": (Re)Building a large food web with sparse data. Quebec Center for Biodiversity Science (QCBS) Annual Symposium. Online
+**Caron, D.**, Pollock, L.J. Doing a lot with “a little”: (Re)Building a large food web with sparse data. Colloque du CSBQ. Online
 
 `2019`
-**Caron, D.**, Chavaillaz, Y., Roy, P. Évolution d'indicateurs d’exposition à la chaleur et conséquences pour la santé des travailleurs extérieurs. Ouranos Seminar. Montréal (Canada).
+**Caron, D.**, Chavaillaz, Y., Roy, P. Évolution d’indicateurs d’exposition à la chaleur et conséquences pour la santé des travailleurs extérieurs. Séminaire Ouranos. Montréal (Canada).
 
 `2018`
 **Caron, D.** & James, PMA. L’échelle d’autocorrélation spatiale de données génétiques chez un insecte ravageur de l’Ouest canadien : capacité de dispersion importante et historique de colonisation complexe. Symposium de sciences biologiques de l’Université de Montréal, Montréal (Canada).
@@ -96,125 +172,6 @@ Winter 2017.*, *Université de Montréal*.
 `2017`
 **Caron, D.** & Poisot, T. Les données ouvertes sur la biodiversité au Québec : forces, faiblesses et défis. Symposium de sciences biologiques de l’Université de Montréal, Montréal (Canada).
 
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.ca/citations?user=c1ee-V4AAAAJ&hl=fr&oi=ao) -->
-
-### Journals
-
-`In Review`
-**Caron, D.**, Brose, U., Lurgi, M., Blanchet F.G., Gravel, D., Pollock, L.J. Trait-matching models predict pairwise interactions across regions, not food web properties. doi:[10.32942/X29K55](https://doi.org/10.32942/X29K55).
-
-`2023`
-Eckert, I., Brown, A., **Caron, D.**, Riva, F., Pollock, L.J. (2023). 30×30 biodiversity gains rely on national coordination. *Nature Communications*, *14*(7113). doi: [10.1038/s41467-023-42737-x](https://doi.org/10.1038/s41467-023-42737-x).
-
-`2023`
-Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T. (2023). Graph embedding and transfer learning can help predict potential species interaction networks despite data limitations. *Methods in Ecology and Evolution*, *Early View*. doi: [10.1111/2041-210X.14228](https://doi.org/10.1111/2041-210X.14228)
-
-`2022`
-Strydom, T., Bouskila, S., Banville, F., Barros, C., **Caron, D.**, Farrell, M. J., ... Poisot, T. (2022). Food web reconstruction through phylogenetic transfer of low-rank network representation. *Methods in Ecology and Evolution*, *13*(12). doi: [10.1111/2041-210X.13835](https://doi.org/10.1111/2041-210X.13835).
-
-`2022`
-**Caron, D.**, Maiorano, L., Thuiller, W., Pollock, L.J. (2022). Addressing the Eltonian shortfall with trait-based interaction models. *Ecology Letters*, *25*(4). doi:[http://doi.org/10.1111/ele.13966](http://doi.org/10.1111/ele.13966).
-
-`2021`
-Strydom, T., Catchen, M. D., Banville, F., **Caron, D.**, Dansereau, G., Desjardins-Proulx, P., ... & Poisot, T. (2021). A roadmap towards predicting species interaction networks (across space and time). *Philosophical Transactions of the Royal Society B*, *376*(1837), 20210063. doi:[https://doi.org/10.1098/rstb.2021.0063](https://doi.org/10.1098/rstb.2021.0063).
-
-`2019`
-**Caron, D.**, Lessard, V., Wu, Q., & Poisot, T. (2019). [Re] Insect natural enemies as regulating factors. *Rescience*, *5*(1): 1. doi:  [10.5281/zenodo.2598793](https://doi.org/10.5281/zenodo.2598793).
-
-### Technical report
-
-`2020`
-Després-Einspenner, M.L., **Caron, D**, Dubuc, G. Plan pour la connectivité des Laurentides 2020-2025. Éco-corridors Laurentiens
-
-### Software
-
-Rousseu, F., Christin, S., **Caron, D.**, Roy, C., Lavoie, R., Beaumont, M., Bolduc, F. (2021) BiRdEmergency v3.2 :Canadian Wildlife Service decision tool to explore information during environmental emergencies.
-
-Roy, P., **Caron, D.**, Smith, T.J., Nolet-Gravel, É., Kelman, T., Forget G., TagBot, J., Thomet F., & Saba E. (2020). JuliaClimate/ClimateTools.jl: v0.22.0 (v0.22.0). Zenodo. doi: [10.5281/zenodo.3836872](https://doi.org/10.5281/zenodo.3836872)
-
-## Teaching
-
-### Teaching Assistant
-
-`2023`
-BIOL206 - Methods in Biology of Organisms *Lab coordinator*, McGill, Montréal, Canada
-
-`2021 & 2022`
-BIOL206 - Methods in Biology of Organisms, McGill, Montréal, Canada
-
-`2018`
-BIO2041 - Biostatistics I, Université de Montréal, Montréal, Canada
-
-### Teaching Development Fellow
-
-`2020`
-BIOL206 - Methods in Biology of Organisms, McGill, Montréal, Canada
-
-### Workshop Presentor
-
-`2020`
-QCBS R Workshop 3 - Introduction to ggplot2
-
-`2018 & 2020`
-QCBS R Workshop 2 - Loading and manipulating data
-
-### Workshop Developer
-
-`2020-2021`
-QCBS R Workshop 1 - Introduction to R
-
-`2022`
-QCBS R Workshop 7 - Generalized Linear Mixed Models
-
-### Tutor
-
-`2018`
-BIO2041 - Biostatistics I, Université de Montréal, Montréal, Canada
-
-`2018`
-BIO1434 - Biodiversity 2, Université de Montréal, Montréal, Canada
-
-## Supervision
-
-### Undergraduate interns
-
-`2021`
-Madeline Hutcheson, *Department of Biology, McGill University*, Montréal, Canada.
-
-`2021`
-Tyffany Patrier, *Department of Biology, McGill University*, Montréal, Canada.
-
-## Other Experiences
-
-`2019 - 2022`
-**Software Developper**, Environment and Climate Change Canada
-
-`2019`
-**Conservation Planning Assistant**, Éco-corridors Laurentiens
-
-`2019`
-**Wildlife Technician**, Environment and Climate Change Canada
-
-`2018`
-**MSc Research Intern**, Poisot Lab, Université de Montréal
-
-`2018`
-**MSc Research Assistant** Ouranos Inc.
-
-`2017`
-**MSc Research Intern**, James Lab, Université de Montréal
-
-`2017`
-**Field Assistant**, Bélanger Lab, TÉLUQ
-
-`2016`
-**Technical Assistant for the Collections of Marine Invertebrates**, Institut québécois de la biodiversité (IQBIO)
-
-`2016`
-**Undergraduate Research Intern**, Poisot Lab, Université de Montréal
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2024 -->
